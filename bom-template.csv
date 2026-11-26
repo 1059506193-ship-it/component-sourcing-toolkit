@@ -1,0 +1,5 @@
+﻿Reference Designator,Manufacturer,Part Number,Quantity,Target Delivery Date,Notes
+R1,,RC0603FR-0710KL,5000,,1% 0603 10k
+U1,,STM32F103C8T6,100,,LQFP-48
+C12,,CC0603KRX7R9BB104,5000,,100nF 50V X7R
+D3,,SS34,2000,,SMA Schottky
